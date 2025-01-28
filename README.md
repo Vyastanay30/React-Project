@@ -4,13 +4,11 @@ A responsive and feature-rich weather application built using React.js and Mater
 
 Features
 
-Real-Time Weather Data: Displays the current temperature, weather conditions, wind speed, and humidity. Search Functionality: Users can search for any city or location to get instant weather updates.
-
+Real-Time Weather Data: Displays the current temperature, weather conditions, wind speed, and humidity. 
+Search Functionality: Users can search for any city or location to get instant weather updates.
 Dynamic UI: Beautiful, responsive design powered by Material-UI components.
-
 Forecast View: View weather predictions for upcoming days (if enabled in API settings).
 
-Error Handling: Graceful error messages for invalid locations or network issues.
 
 Tech Stack:
 React.js: A JavaScript library for building user interfaces.
